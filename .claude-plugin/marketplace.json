@@ -1,0 +1,14 @@
+{
+  "name": "reslop",
+  "description": "Reslop. The slop must go on.",
+  "owner": {
+    "name": "Gabrielle Pochon"
+  },
+  "plugins": [
+    {
+      "name": "reslop",
+      "source": "./",
+      "description": "Make your website look AI-generated again. Puts the purple gradients back."
+    }
+  ]
+}

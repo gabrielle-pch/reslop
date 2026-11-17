@@ -1,0 +1,11 @@
+{
+  "name": "reslop",
+  "description": "Make your website look AI-generated again. Puts the purple gradients back.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Gabrielle Pochon",
+    "url": "https://github.com/gabrielle-pch"
+  },
+  "license": "MIT",
+  "keywords": ["design", "frontend", "parody", "slop"]
+}
